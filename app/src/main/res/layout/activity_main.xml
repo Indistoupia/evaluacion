@@ -35,9 +35,9 @@
             android:scaleType="fitCenter"
             android:adjustViewBounds="true"
             android:background="#00000000"
-
-            android:src="@android:drawable/btn_star"
-            tools:src="@drawable/_666802_menu_navigation_icon" />
+            android:contentDescription="Menu"
+            android:src="@drawable/_666802_menu_navigation_icon"
+             />
 
         <ImageButton
             android:id="@+id/imageButton2"
@@ -49,8 +49,8 @@
             android:maxHeight="60dp"
             android:scaleType="fitCenter"
             android:background="#00000000"
-            android:src="@android:drawable/btn_star"
-            tools:src="@drawable/_666681_edit_icon" />
+            android:contentDescription="Editar"
+            android:src="@drawable/_666681_edit_icon" />
     </LinearLayout>
 
 
