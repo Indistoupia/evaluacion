@@ -2,7 +2,12 @@ package com.hola.evalua;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.ActionBar;
 import android.os.Bundle;
+import android.view.View;
+import android.view.WindowManager;
+
+
 
 
 public class MainActivity extends AppCompatActivity {
@@ -16,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+
+
+
 }
